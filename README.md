@@ -26,7 +26,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 March 2022 - To: 23 April 2022
+
+Total Time: 4 hrs 27 mins
+
+Go                 1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   44.77 %
+Markdown           58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+Java               35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+YAML               12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+XML                12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Protocol Buffer    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
