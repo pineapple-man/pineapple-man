@@ -1,4 +1,9 @@
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <h3 align="center">
     Hi~ Thank you for coming!
