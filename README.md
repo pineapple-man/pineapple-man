@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 23 April 2022
+From: 25 March 2022 - To: 24 April 2022
 
-Total Time: 4 hrs 27 mins
+Total Time: 7 hrs 8 mins
 
-Go                 1 hr 59 mins    ███████████▒░░░░░░░░░░░░░   44.77 %
-Markdown           58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-Java               35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-YAML               12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-XML                12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Protocol Buffer    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Go                 2 hrs 24 mins   ████████▒░░░░░░░░░░░░░░░░   33.72 %
+Markdown           2 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.62 %
+Java               37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+CMake              30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+ObjectiveC         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
