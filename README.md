@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 27 June 2022
+From: 29 May 2022 - To: 28 June 2022
 
-Total Time: 124 hrs 26 mins
+Total Time: 122 hrs 39 mins
 
-Python               47 hrs 52 mins  █████████▓░░░░░░░░░░░░░░░   38.26 %
-C                    34 hrs 5 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-Go                   14 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-C++                  8 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Java                 3 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash                 3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Python               49 hrs 31 mins  ██████████░░░░░░░░░░░░░░░   40.14 %
+C                    33 hrs 48 mins  ███████░░░░░░░░░░░░░░░░░░   27.40 %
+Go                   14 hrs 5 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+C++                  6 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Java                 3 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Bash                 3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
