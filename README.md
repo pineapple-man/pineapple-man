@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 July 2022 - To: 27 August 2022
+From: 29 July 2022 - To: 28 August 2022
 
-Total Time: 92 hrs 53 mins
+Total Time: 85 hrs 42 mins
 
-Go                   80 hrs 31 mins  █████████████████████▓░░░   86.69 %
-Python               8 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Markdown             1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Text                 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-C++                  36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash                 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Go                   74 hrs 4 mins   █████████████████████▓░░░   86.43 %
+Python               8 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Markdown             1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Text                 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+C++                  35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+GitIgnore file       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
