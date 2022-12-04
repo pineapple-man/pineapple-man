@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 03 December 2022
+From: 04 November 2022 - To: 04 December 2022
 
-Total Time: 27 hrs 21 mins
+Total Time: 26 hrs 53 mins
 
-Markdown             9 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   32.70 %
-Python               7 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-C                    3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Bash                 2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Go                   2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-JSON                 1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Markdown          9 hrs           ████████▒░░░░░░░░░░░░░░░░   32.86 %
+Python            7 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+C                 3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Bash              2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Go                1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+JSON              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
