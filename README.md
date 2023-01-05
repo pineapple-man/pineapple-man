@@ -20,16 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 04 January 2023
+From: 06 December 2022 - To: 05 January 2023
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 21 mins
 
-Markdown     56 mins         ███████████████▓░░░░░░░░░   62.13 %
-C            17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-JSON         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown     1 hr 1 min      ███████████████████░░░░░░   75.64 %
+C            17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
