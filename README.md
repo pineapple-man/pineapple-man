@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 January 2023 - To: 07 February 2023
+From: 09 January 2023 - To: 08 February 2023
 
-Total Time: 52 hrs 22 mins
+Total Time: 59 hrs 19 mins
 
-TeX            48 hrs 34 mins  ███████████████████████░░   91.75 %
-BibTeX         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Markdown       58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-JSON           52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Other          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+TeX            55 hrs 33 mins  ███████████████████████▒░   92.77 %
+BibTeX         1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON           51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Markdown       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Other          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
