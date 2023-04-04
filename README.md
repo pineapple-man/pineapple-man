@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2023 - To: 03 April 2023
+From: 05 March 2023 - To: 04 April 2023
 
-Total Time: 113 hrs 54 mins
+Total Time: 118 hrs 1 min
 
-TeX              97 hrs 13 mins  █████████████████████▒░░░   85.14 %
-Markdown         9 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-Python           3 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML             1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-BibTeX           48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Text             38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TeX              98 hrs 29 mins  ████████████████████▓░░░░   83.25 %
+Markdown         11 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Python           5 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+YAML             1 hr 22 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+BibTeX           39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Text             39 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
