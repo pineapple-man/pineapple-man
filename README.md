@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2023 - To: 20 May 2023
+From: 21 April 2023 - To: 21 May 2023
 
-Total Time: 6 hrs 49 mins
+Total Time: 4 hrs 53 mins
 
-TeX              3 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.77 %
-BibTeX           2 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Markdown         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-OpenEdge ABL     22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-C                15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+TeX              2 hrs 38 mins   █████████████▒░░░░░░░░░░░   53.80 %
+BibTeX           1 hr            █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Markdown         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+C                15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+OpenEdge ABL     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
