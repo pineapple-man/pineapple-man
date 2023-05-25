@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2023 - To: 24 May 2023
+From: 25 April 2023 - To: 25 May 2023
 
-Total Time: 3 hrs 44 mins
+Total Time: 7 hrs 38 mins
 
-TeX              2 hrs 21 mins   ███████████████▓░░░░░░░░░   62.93 %
-Markdown         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-OpenEdge ABL     19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-C                15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Io               9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TeX              6 hrs 15 mins   ████████████████████▒░░░░   81.74 %
+Markdown         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+OpenEdge ABL     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+C                15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Io               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
