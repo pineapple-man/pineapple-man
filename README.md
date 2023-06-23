@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2023 - To: 22 June 2023
+From: 24 May 2023 - To: 23 June 2023
 
-Total Time: 9 hrs 36 mins
+Total Time: 8 hrs 29 mins
 
-TeX        7 hrs 7 mins    ██████████████████▓░░░░░░   74.17 %
-Markdown   1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-C          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Makefile   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TeX        6 hrs           █████████████████▓░░░░░░░   70.82 %
+Markdown   1 hr 57 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+C          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Makefile   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
