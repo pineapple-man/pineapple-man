@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 29 June 2023
+From: 31 May 2023 - To: 30 June 2023
 
-Total Time: 2 hrs 28 mins
+Total Time: 56 mins
 
-Markdown   1 hr 57 mins    ███████████████████▓░░░░░   79.21 %
-C          16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Makefile   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Modula-2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown   47 mins         █████████████████████▒░░░   84.94 %
+C          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.54 %
+Modula-2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
