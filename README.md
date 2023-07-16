@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2023 - To: 15 July 2023
+From: 16 June 2023 - To: 16 July 2023
 
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+Markdown   3 mins          ███████████████░░░░░░░░░░   60.12 %
+C          2 mins          ██████████░░░░░░░░░░░░░░░   39.88 %
 ```
 
 <!--END_SECTION:waka-->
