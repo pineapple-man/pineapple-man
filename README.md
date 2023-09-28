@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on kubernetes
 -->
-- 🌱 I’m currently learning Rust/C/C++ and Storage!
+- 🌱 I’m currently learning C/RISC-V/ARM and Booting!
+- 🔭 I’m currently learning flash!
 
